@@ -1,2 +1,2 @@
-# Imotion Detection
-The image dataset consists of various 6 types of emotions expressed by a human face. The expression name is embedded in the image filename. The objective is to train a deep learning model to detect the emotions. The jupyter notebook consists the the code and steps performed for training the deeplearning model for the same.
+# Emotion Detection
+The image datasets consists of various 6 types of emotions expressed by a human face. The expression name is embedded in the image filename. The objective is to train a deep learning model to detect the emotions. The jupyter notebook consists the the code and steps performed for training the deep learning model for the same.
